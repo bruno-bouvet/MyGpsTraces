@@ -6,6 +6,7 @@
     "ext-ctype": "*",
     "ext-curl": "*",
     "ext-iconv": "*",
+    "ext-json": "*",
     "ext-simplexml": "*",
     "sensio/framework-extra-bundle": "^5.1",
     "symfony/apache-pack": "^1.0",
@@ -28,8 +29,9 @@
     "symfony/twig-bundle": "4.3.*",
     "symfony/validator": "4.3.*",
     "symfony/web-link": "4.3.*",
+    "symfony/webpack-encore-bundle": "^1.6",
     "symfony/yaml": "4.3.*",
-    "ext-json": "*"
+    "vich/uploader-bundle": "^1.8"
   },
   "require-dev": {
     "symfony/debug-pack": "*",
